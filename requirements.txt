@@ -1,0 +1,5 @@
+# Core dependencies (required)
+psutil>=5.8.0
+
+# Optional dependencies for enhanced features
+pyperclip>=1.8.2  # For clipboard monitoring
