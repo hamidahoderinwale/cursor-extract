@@ -72,7 +72,7 @@ chmod +x setup_auto_sync.sh
 ## Datasets
 
 The extracted data is available at:
-- [Hugging Face Datasets](https://huggingface.co/datasets/midah/cursor-extract)
+- [Hugging Face Datasets](https://huggingface.co/datasets/midah/cursor-extract) [Private]
 
 ## License
 
